@@ -1,6 +1,6 @@
 [{
         "ParameterKey": "EnvironmentName",
-        "ParameterValue": "Network"
+        "ParameterValue": "Activity"
     },
     {
         "ParameterKey": "VpcCIDR",
